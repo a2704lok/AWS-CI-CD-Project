@@ -36,4 +36,6 @@ AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
 ECR_REPOSITORY_NAME = simple-app
 
-then commit
+
+Once EC2 is up go to github settings -> actions -> runners
+add runngers in the ec2 using the instructions.
